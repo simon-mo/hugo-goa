@@ -21,7 +21,8 @@ a:link
 }
 body
 {
-    font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;
+    /*font-family: 'Roboto Slab', 'Roboto', 'Lato', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 20px;
     font-weight: 400;
 
@@ -52,7 +53,8 @@ html
 .author h6,
 .author p
 {
-    font-family: 'Roboto Slab', serif;
+    /*font-family: 'Roboto Slab', serif;*/
+    font-family: 'EB Garamond', serif;
 }
 .category
 {
@@ -72,7 +74,8 @@ html
 }
 div.content
 {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 18px;
     font-weight: 300;
 
@@ -80,20 +83,22 @@ div.content
 }
 .copyright
 {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 12px;
     font-weight: 200;
 }
 .description
 {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-weight: 200;
     color: #bbb;
 }
 .error
 {
-    font-family: 'Roboto', sans-serif;
-
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     margin-top: 100px;
 }
 .error h1
@@ -110,7 +115,9 @@ div.content
 }
 .excerpt
 {
-    font-family: 'Lato', sans-serif;
+    /*font-family: 'Lato', sans-serif;*/
+    font-family: 'EB Garamond', serif;
+
     font-size: 18px;
     font-weight: 200;
 
@@ -140,7 +147,9 @@ div.content
 }
 .intro
 {
-    font-family: 'Roboto Slab', serif;
+    /*font-family: 'Roboto Slab', serif;*/
+    font-family: 'EB Garamond', serif;
+
     font-weight: 200;
     color: #777;
 }
@@ -150,7 +159,8 @@ h3.intro
 }
 .list
 {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
 
     margin-top: 50px;
 }
@@ -160,7 +170,8 @@ h3.intro
 }
 .list-entry
 {
-    font-family: 'Roboto Slab', serif;
+    /*font-family: 'Roboto Slab', serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 25px;
     font-weight: 400;
 
@@ -183,7 +194,8 @@ h3.intro
 }
 .menu-item
 {
-    font-family: 'Lato', sans-serif;
+    /*font-family: 'Lato', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 20px;
     font-weight: 300;
 
@@ -193,7 +205,8 @@ h3.intro
 }
 .meta
 {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 12px;
     font-weight: 200;
 
@@ -205,7 +218,8 @@ a.meta
 }
 h6.meta
 {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 12px;
     font-weight: 200;
 
@@ -216,7 +230,8 @@ section.meta {
 }
 .powered
 {
-    font-family: 'Roboto', sans-serif;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'EB Garamond', serif;
     font-size: 12px;
     font-weight: 300;
 }
@@ -231,7 +246,8 @@ section.meta {
 }
 .title
 {
-    font-family: 'Roboto Slab', serif;
+    /*font-family: 'Roboto Slab', serif;*/
+    font-family: 'EB Garamond', serif;
     font-weight: 400;
 
     color: #555;
@@ -250,7 +266,8 @@ header.title
     }
     .list
     {
-        font-family: 'Roboto', sans-serif;
+        /*font-family: 'Roboto', sans-serif;*/
+        font-family: 'EB Garamond', serif;
 
         margin-top: 30px;
     }
